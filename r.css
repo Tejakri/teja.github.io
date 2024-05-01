@@ -1,0 +1,22 @@
+.bg{
+    width:700px;
+    margin:50px auto;
+    position: relative;
+}
+.bg-img{
+    width:100%;
+    border-radius: 16px;
+}
+.bg-content{
+    position: absolute;
+    top:160px;
+    left:50px;
+    color:white;
+}
+.btn{
+    background-color: #fff;
+    border: none;
+    border-radius: 60px;
+    font-size: 16px;
+    padding: 16px 30px;
+}
